@@ -1,8 +1,7 @@
 <h1 align="left">Igor Clérigo</h1>
 <img align="right" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="justify">Sou estudante em Análise e Desenvolvimento de Sistemas e venho aprofundando meus conhecimentos na área de programação com os cursos do Senac e da Dio.
-Além disso, venho colocando em prática o aprendizado que estou adquirindo na graduação e nos cursos por meio de projetos práticos, desenvolvendo ainda mais minhas habilidades com a tecnologia Python.</p>
+<p align="justify">Sou estudante de Análise e Desenvolvimento de Sistemas e venho aprofundando meus conhecimentos na área de programação por meio dos cursos do Senac e da Dio. Além disso, estou aplicando o aprendizado adquirido na graduação e nos cursos em projetos práticos, desenvolvendo ainda mais minhas habilidades com a tecnologia Python.</p>
 
 
 <h3>Contato:</h3>
